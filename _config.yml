@@ -1,0 +1,13 @@
+remote_theme: jekyll/minima
+
+plugins:
+- jekyll-remote-theme
+
+title: "Bear & Moose Orbit Transactions"
+
+minima:
+  skin: dark
+
+author:
+  name: NadimGhaznavi
+  email: nghaznavi@gmail.com
